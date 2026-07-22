@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Metin Ali
 
-<!--
-**metincetin65/metincetin65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Engineer | Low Voltage Systems | Technical Research
 
-Here are some ideas to get you started:
+I am a Computer Engineer with experience in engineering documentation, low-voltage systems, technical specifications, and AI-assisted technical research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Expertise
+
+- 🔹 Low Voltage Systems
+- 🔹 CCTV Systems
+- 🔹 Fire Alarm Systems
+- 🔹 Public Address Systems
+- 🔹 Structured Cabling
+- 🔹 Technical Specifications
+- 🔹 Bill of Quantities (BOQ)
+- 🔹 Room Schedules
+- 🔹 Technical Documentation
+- 🔹 Product Research
+- 🔹 Engineering Reports
+
+### Technical Skills
+
+- Microsoft Excel
+- Microsoft Word
+- C++
+- SQL
+- Python
+- Adobe Photoshop
+
+### Current Project
+
+🚀 Project Freedom
+
+Building a professional engineering portfolio for international freelance opportunities.
